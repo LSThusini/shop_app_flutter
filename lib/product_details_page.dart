@@ -69,7 +69,7 @@ class _ProductDetailsPageState extends State<ProductDetailsPage> {
                             ),
                             backgroundColor: selectedSize == size
                                 ? Theme.of(context).colorScheme.primary
-                                : Colors.white,
+                                : null,
                           ),
                         ),
                       );
@@ -78,13 +78,17 @@ class _ProductDetailsPageState extends State<ProductDetailsPage> {
                 ),
                 Padding(
                   padding: const EdgeInsets.all(10.0),
-                  child: ElevatedButton(
+                  child: ElevatedButton.icon(
+                    icon: const Icon(
+                      Icons.shopping_cart,
+                      color: Colors.black,
+                    ),
                     onPressed: () {},
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Theme.of(context).colorScheme.primary,
                       minimumSize: const Size(double.infinity, 50),
                     ),
-                    child: const Text(
+                    label: const Text(
                       'Add to cart',
                       style: TextStyle(
                         color: Colors.black,
