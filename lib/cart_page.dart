@@ -61,7 +61,7 @@ class CartPage extends StatelessWidget {
                               Navigator.of(context).pop();
                             },
                             child: const Text(
-                              'Yes',
+                              'Yess',
                               style: TextStyle(
                                 color: Colors.red,
                                 fontWeight: FontWeight.bold,
