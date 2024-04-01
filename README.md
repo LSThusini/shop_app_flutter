@@ -10,7 +10,8 @@ A web store sneaker shop flutter-based mobile application.
 - Cart 
 
 ## Screenshots
-![Screenshot_1712002589](https://github.com/LSThusini/shop_app_flutter/assets/112751372/fbaa1a38-b006-41fc-bb28-0e7bb6dd5535)  ![Screenshot_1712002611](https://github.com/LSThusini/shop_app_flutter/assets/112751372/b72a3b79-e60f-4adb-b8db-d6ae8e30058b) ![Screenshot_1712002662](https://github.com/LSThusini/shop_app_flutter/assets/112751372/296cf2d9-dd44-4f82-b7ae-1e44f3f98564)
+<img src="https://github.com/LSThusini/shop_app_flutter/assets/112751372/fbaa1a38-b006-41fc-bb28-0e7bb6dd5535" alt="Screenshot" width="200"> <img src="https://github.com/LSThusini/shop_app_flutter/assets/112751372/b72a3b79-e60f-4adb-b8db-d6ae8e30058b" alt="Screenshot" width="200"> <img src="https://github.com/LSThusini/shop_app_flutter/assets/112751372/296cf2d9-dd44-4f82-b7ae-1e44f3f98564" alt="Screenshot" width="200">
+
 
 
 
